@@ -1,7 +1,3 @@
-Here’s an example `README.md` for your `MarketQuotesApp`:
-
----
-
 # MarketQuotesApp
 
 This is a simple Java application that allows users to retrieve the latest market quotes for various indices. The user can input the name of a market (either "dow", "ftse", or "nasdaq"), and the application will return the latest quote for that market.
@@ -43,7 +39,3 @@ Market not recognized. Please enter dow, ftse, or nasdaq.
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-Let me know if you need any further modifications!
